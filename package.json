@@ -1,0 +1,11 @@
+{
+  "name": "@rcm-cabos-eletricos/dev-standards",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "scripts": {
+    "postinstall": "node -e \"console.log('Dev standards installed')\""
+  }
+}

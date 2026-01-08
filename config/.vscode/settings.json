@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[blade.php]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    
+    "php-cs-fixer.executablePath": "${workspaceFolder}/vendor/bin/php-cs-fixer.bat"
+}
