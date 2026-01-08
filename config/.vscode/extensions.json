@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "junstyle.php-cs-fixer",
+        "esbenp.prettier-vscode",
+        "shufo.vscode-blade-formatter"
+    ]
+}

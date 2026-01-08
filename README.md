@@ -1,2 +1,0 @@
-# treinamentos
-Treinamentos TI
