@@ -3,7 +3,7 @@
     "description": "Padrões internos de desenvolvimento",
     "type": "library",
     "license": "proprietary",
-    "require-dev": {
+    "require": {
         "friendsofphp/php-cs-fixer": "^3.50"
     }
 }
